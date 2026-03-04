@@ -12,7 +12,7 @@ chromadb==1.4.0
 click==8.3.1
 coloredlogs==15.0.1
 distro==1.9.0
-Django==6.0
+Django==6.0.3
 django-cors-headers==4.9.0
 django-encrypted-model-fields
 dj-database-url==2.1.0
