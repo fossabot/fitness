@@ -1,4 +1,6 @@
 # Airwave - AI-Powered Fitness Tracker
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoealongi%2Ffitness.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoealongi%2Ffitness?ref=badge_shield)
+
 
 Airwave is a comprehensive fitness application that estimates VO2 max from workout data and provides personalized health insights. Built with cutting-edge AI technologies including Spiking Neural Networks (Norse) and vector databases (ChromaDB), Airwave offers advanced fitness analytics beyond traditional trackers.
 
@@ -1287,6 +1289,9 @@ Railway provides automatic SSL, scaling, and excellent developer experience for 
 ## 📄 License
 
 This project is licensed under the Mozilla Public License Version 2.0 - see the LICENSE file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjoealongi%2Ffitness.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjoealongi%2Ffitness?ref=badge_large)
 
 ## 📞 Support
 
